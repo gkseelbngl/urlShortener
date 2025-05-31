@@ -1,6 +1,6 @@
 # 🔗 Modern URL Shortener
 
-[Proje Canlı Demo Linki](https://urlshortenertheval.netlify.app/)
+[Proje Canlı Demo Linki](https://urlshortenervia.netlify.app/)
 
 Trimrr is a full-stack URL shortening service built with React, Node.js, and PostgreSQL. It allows users to create shortened URLs, track clicks, and manage their links through an intuitive dashboard.
 
